@@ -19,7 +19,7 @@
 			<dependency>
 				<groupId>org.springframework.cloud</groupId>
 				<artifactId>spring-cloud-circuitbreaker-resilience4j</artifactId>
-				<version>1.0.4.BUILD-SNAPSHOT</version>
+				<version>1.0.4.BUILD-SNAPSHOT</version> <!-- local build of 1.0.4 + making Resilience4JCircuitBreakerFactory::getCircuitBreakerRegistry	package-private -->
 			</dependency>
 			<dependency>
 				<groupId>org.springframework.cloud</groupId>
