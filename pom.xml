@@ -9,10 +9,10 @@
 	</parent>
 
 	<groupId>com.example</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>sleuth-gh-1630</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>sleuth-gh-1630</name>
+	<description>Demo project to repro https://github.com/spring-cloud/spring-cloud-sleuth/issues/1630</description>
 
 	<dependencyManagement>
 		<dependencies>
